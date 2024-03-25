@@ -31,3 +31,8 @@ There are 333 records in the dataset
 - The mean price of the closing trade is 0.5021
 - The mean price of the volume is 3.6957 + e08
 - The mean number of trades is 2.222948e+05
+
+## Showing Distribution for each column
+
+![image](https://github.com/t17sk18/XRPUSDT-Analysis/assets/46694097/e2c80300-2364-4a88-8421-cb12c9979840)
+
