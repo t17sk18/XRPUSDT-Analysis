@@ -11,14 +11,15 @@ In this project, we look at the existing crypto data(XRP) and apply data analyti
 
 #### Basic Statistics Conclusion:
 
-###### Volume traded:
+### Volume traded:
 **Volume Range:** The data shows a wide variety of trading volumes ranging from a minimum of 6.313711e+07 to a maximum of 2.499971e+09 throughout the year.
 With the 75th percentile being about 4.283734e+08 units and the 25th percentile being about 2.375146e+08 units
 
-###### Price Range:
+### Price Range:
 **Opening Price:** The data shows the minimum opening price of 0.3380 and the maximum opening price of 0.8198 throughout the year.With the 75th percentile being about 0.5302 and the 25th percentile being about 0.4260. The mean price of the opening trade is 0.5013
 
 **Closing Price:** The data shows the minimum closing price of 0.3380 and the maximum closing price of 0.8199 throughout the year.With the 75th percentile being about 0.5319 and the 25th percentile being about 0.4273. The mean price of the opening trade is 0.5021
+
 ## Basic Statistic Conclusions
 - Volume traded
   The data shows a wide variety of trading volumes ranging from a minimum of 6.313711e+07 
